@@ -17,7 +17,7 @@ let toFilterAndCreateCSV = true;
 
 
 const getOutletsOfCity = async () => {
-    let city = "mumbai";
+    let city = "Hanoi";
     try {
         // scraping data from Google Map
         if (wantToCrawl) {
